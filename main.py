@@ -84,10 +84,6 @@ def processCommand(c):
         output = aiProcess(c)
         speak(output) 
 
-
-
-
-
 if __name__ == "__main__":
     speak("Initializing Jarvis....")
     while True:
